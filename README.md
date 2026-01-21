@@ -16,7 +16,7 @@ Company intends to focus on building a regression model using regularisation to 
 3. How well these variables/features, drives/derives the price of house/property
 
 ### Dataset Used
-The dataset consists of Housing sales like size,quality,condition,garages,neighbood etc. Response/target variable here would be the sales price.
+The dataset consists of Housing sales like size,quality,condition,garages,neighborbood etc. Response/target variable here would be the sales price.
 
 ## Conclusions
 - House/property Quality,Living area,Garage capacity, neighborhood are the Key drivers/features in determining the price.
